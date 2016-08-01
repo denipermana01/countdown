@@ -1,7 +1,7 @@
 $( function() {
 // Add background image
 	$.backstretch('assets/sulley-monsters-inc.jpg');
-	var endDate = "November 25, 2016 15:03:25";
+	var endDate = "October 25, 2016 15:03:25";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
